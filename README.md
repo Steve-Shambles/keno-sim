@@ -55,6 +55,8 @@ to your local drive so you always have a target to try and improve on.
 This game is random. RTP is approximately 95%-96%
 Steve Shambles.
 
+![Alt Text](https://github.com/Steve-Shambles/keno-sim/blob/main/screenshots/01_keno_sim_screenshot.png)
+
 For Python programmers:
 
 Requirements:
