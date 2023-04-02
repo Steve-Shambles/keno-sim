@@ -9,7 +9,7 @@ This program is Freeware.
 
 
 
-[Alt Text](https://github.com/Steve-Shambles/keno-sim/blob/main/screenshots/02_keno_sim_screenshot.png)
+![Alt Text](https://github.com/Steve-Shambles/keno-sim/blob/main/screenshots/02_keno_sim_screenshot.png)
 
 
 
