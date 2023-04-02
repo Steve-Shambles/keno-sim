@@ -29,6 +29,7 @@ from the grid of 80 numbers, and then the computer picks out 20 random numbers f
 You want as many of your numbers matching with the computer picks as possible to win a prize.
 The payouts are listed in the right side panel in the game.
 
+![Alt Text](https://github.com/Steve-Shambles/keno-sim/blob/main/screenshots/03_keno_sim_screenshot.png)
 
 Step by Step:
 
