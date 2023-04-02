@@ -50,9 +50,13 @@ This game is random. RTP is approximately 95%-96%
 ![Alt Text](https://github.com/Steve-Shambles/keno-sim/blob/main/screenshots/01_keno_sim_screenshot.png)
 
 Requirements:
+
 Pip3 install sounddevice
+
 pip3 install soundfile
+
 pip3 install Pillow
+
 
 I wrote this program on a Windows 7 PC using Python V3.67, but I see no reason why it should not work on any
 Windows or Linux machine, though they remain untested.
