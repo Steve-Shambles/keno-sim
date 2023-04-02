@@ -7,6 +7,12 @@ By Steve Shambles (c) April 2023
 Source code is under MIT Licence.
 This program is Freeware.
 
+
+
+[Alt Text](https://github.com/Steve-Shambles/keno-sim/blob/main/screenshots/02_keno_sim_screenshot.png)
+
+
+
 This program is a simulation of an online Keno game that I 
 sometimes play for real money.
 
